@@ -1,6 +1,6 @@
 # Trader Joe ETL Pipeline
 
-An automated **ETL (Extract, Transform, Load) pipeline** that collects, processes, and analyzes **DeFi liquidity pool data** from the [Trader Joe Liquidity Pools](https://lfj.gg/avalanche/pool) on the Avalanche blockchain.  
+An automated **ETL pipeline** that collects, processes, and analyzes **DeFi liquidity pool data** from the [Trader Joe Liquidity Pools](https://lfj.gg/avalanche/pool) on the Avalanche blockchain.  
 
 This project demonstrates skills in **Python, APIs, Web3, and data engineering** by combining off-chain API data (from the **LFJ DEX API v1.0.0**) with on-chain smart contract queries (via **helperContractABI.json**) to calculate key liquidity metrics and save results into CSVs for further analysis.
 
